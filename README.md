@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings! 👋
 
 <!--
 **SnowNation101/SnowNation101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,15 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on RAG
+- 🧩 I am interested in computer graphics, although it is not my research area
 - 📫 How to reach me: davidzhang101@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤠 Pronouns: he/his
 
-
+If you have any great ideas, please feel free to share them with me!
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowNation101&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
