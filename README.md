@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on RAG
-- 🧩 I am interested in computer graphics, although it is not my research area
+- 🔭 I’m currently working on multi-modal RAG.
+- 🧩 I am interested in computer graphics, although it is not my research area.
 - 📫 How to reach me: davidzhang101@outlook.com
 - 🤠 Pronouns: he/his
 
-If you have any great ideas, please feel free to share them with me!
+If you have any great ideas, please feel free to share with me!
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowNation101&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
