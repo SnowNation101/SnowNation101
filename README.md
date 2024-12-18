@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on multi-modal RAG.
+- 🔭 I’m currently working on multimodal RAG.
 - 🧩 I am interested in computer graphics, although it is not my research area.
 - 📫 How to reach me: chenghao-zhang@outlook.com
 - 🤠 Pronouns: he/his
