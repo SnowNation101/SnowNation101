@@ -1,16 +1,12 @@
 ### Greetings! 👋
 
-<!--
-**SnowNation101/SnowNation101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am ...
+- 🔭 currently working on **multimodal RAG**
+- 🧩 fascinated by computer graphics, though it’s not my research focus
+- 🎮 enjoy playing video games like **League of Legends**, **VALORANT**, and **Hades** — also a proud supporter of **Cloud9 Esports**
+- ⚽️ passionate about sports, especially football, with **Chelsea FC** as my favorite team
+- 📫 reach me at chenghao-zhang@outlook.com, pronouns: he/him
 
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on multimodal RAG.
-- 🧩 I am interested in computer graphics, although it is not my research area.
-- 📫 How to reach me: chenghao-zhang@outlook.com
-- 🤠 Pronouns: he/his
-
-If you have any great ideas, please feel free to share with me!
+💡 Got any great ideas? Feel free to share them — I’d love to hear from you!
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowNation101&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
