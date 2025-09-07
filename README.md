@@ -1,7 +1,7 @@
 ### Greetings! 👋
 
 I am ...
-- 🔭 currently working on **multimodal RAG**
+- 🔭 currently working on **multimodal deep research**
 - 🧩 fascinated by computer graphics, though it’s not my research focus
 - 🎮 enjoy playing video games like **League of Legends**, **VALORANT**, and **Hades** — also a proud supporter of **Cloud9 Esports**
 - ⚽️ passionate about sports, especially football, with **Chelsea FC** as my favorite team
